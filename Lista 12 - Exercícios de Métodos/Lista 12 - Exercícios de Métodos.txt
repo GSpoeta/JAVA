@@ -1,0 +1,27 @@
+Professor: Luís Guilherme de S. Lopes
+Curso: Técnico em informática
+Senac - RS / Tramandaí
+
+--
+
+Lista de Exercícios de Métodos
+
+1. Par ou Ímpar (if/else): Crie um método que receba um número inteiro e imprima se ele é par ou ímpar.
+
+2. Status de Aprovação (if/else): Crie um método que receba a nota de um aluno (0 a 10). Se for maior ou igual a 7, imprima "Aprovado", senão, "Reprovado".
+
+3. Contagem Regressiva (while): Crie um método que receba um número inicial e imprima uma contagem regressiva até 0 usando a estrutura while.
+
+4. Dobrar até 100 (while): Crie um método que receba um número pequeno (ex: 2) e vá multiplicando-o por 2 e imprimindo o resultado até que o valor passe de 100 usando while.
+
+5. Tabuada (for): Crie um método que receba um número inteiro e imprima a sua tabuada (de 1 a 10) usando o laço for.
+
+6. Soma de N números (for): Crie um método que receba um número N e some todos os números de 1 até N usando o laço for, imprimindo o total no final.
+
+7. Dia da Semana (switch case): Crie um método que receba um número de 1 a 7 e imprima o dia da semana correspondente (1 = Domingo, 2 = Segunda, etc.) usando switch case.
+
+8. Calculadora Básica (switch case): Crie um método que receba dois números e um caractere representando a operação ('+', '-', '*', '/'). Use switch case para calcular e imprimir o resultado.
+
+9. Maior de Três (if/else aninhado): Crie um método que receba três números inteiros e imprima qual é o maior deles usando if/else.
+
+10. Contador de Vogais (for e switch case): Crie um método que receba uma palavra (String) e conte quantas vogais existem nela. Use um for para percorrer as letras e um switch case para verificar se é vogal.

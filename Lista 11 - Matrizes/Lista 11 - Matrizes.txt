@@ -1,0 +1,24 @@
+Professor: Luís Guilherme de S. Lopes
+Curso: Técnico em informática
+Senac - RS / Tramandaí
+
+---
+
+Lista 12 - Matrizes
+
+1. Somados Elementos de uma Matriz: Dada uma matriz 3x3 de inteiros, some todos os elementos da matriz e exiba o resultado.
+
+2. Matriz Identidade: Verifique se uma matriz 3x3 é uma matriz identidade (uma matriz onde os elementos da diagonal principal são 1 e todos os outros são 0).
+
+3. Matriz Transposta: Dada uma matriz 3x3, crie e exiba a sua matriz transposta (trocar linhas por colunas).
+
+4. Somadas Diagonais de uma Matriz: Dada uma matriz 3x3, calcule a soma dos elementos da diagonal principal e da diagonal secundária.
+
+5. Multiplicação por Escalar: Multiplique todos os elementos de uma matriz 3x3 por um
+número escalar fornecido pelo usuário.
+
+6. Declarar e preencher uma matriz: Crie uma matriz 3x3 de inteiros e preencha-a com os valores de 1 a 9, linha por linha. Em seguida, exiba todos os elementos usando laços for.
+
+7. Soma de todos os elementos: Dado o array abaixo, calcule e exiba a soma de todos os elementos da matriz 2x3.
+
+-----

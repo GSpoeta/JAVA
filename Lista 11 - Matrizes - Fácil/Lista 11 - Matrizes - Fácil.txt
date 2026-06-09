@@ -1,0 +1,27 @@
+Refrescando a Mente
+
+- Declaração: Usamos dois pares de colchetes: int[][] matriz = new int[linhas][colunas];.
+- Acesso: O primeiro índice é sempre a linha e o segundo é a coluna. Lembre-se: em Java, a contagem começa em 0.
+- Percorrimento: Para ler ou escrever numa matriz, usamos quase sempre dois laços for (um dentro do outro). O primeiro percorre as linhas e o segundo as colunas.
+
+--------
+
+Lista de Exercícios: Matrizes (Nível Fácil)
+
+1. Criação Simples: Crie uma matriz de inteiros 2x2 e atribua valores manualmente. Depois, imprima o valor que está na primeira linha e primeira coluna.
+
+2. Soma Total: Crie uma matriz 2x2, preencha-a e exiba a soma de todos os seus elementos.
+
+3. Preenchimento Uniforme: Crie uma matriz 3x3 e use um laço de repetição para preencher todos os espaços com o número 5.
+
+4. Multiplicação por 2: Dada uma matriz 2x2 pré-preenchida, multiplique cada elemento por 2 e mostre o resultado.
+
+5. Contagem de Pares: Crie uma matriz 2x3 e conte quantos números pares existem dentro dela.
+
+6. Identificando o Maior: Crie uma matriz 2x2 e descubra qual é o maior valor armazenado nela.
+
+7. Linha Específica: Crie uma matriz 3x3 e imprima apenas os valores localizados na segunda linha.
+
+8. Diagonal Principal: Crie uma matriz 3x3 onde os elementos da diagonal principal (onde a linha é igual à coluna) sejam 1 e o restante seja 0.
+
+---

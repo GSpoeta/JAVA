@@ -1,0 +1,19 @@
+Professor Luís Guilherme de Souza Lopes
+Senac Tramandaí - RS
+
+Exercícios de Array (em Java):
+
+
+Nível Fácil
+
+1. Soma dos Elementos: Crie um array de números inteiros e calcule a soma de todos os seus elementos.  
+2. Encontrar o Maior Valor: Dado um array de números inteiros, descubra qual é o maior número presente nele.  
+3. Contar Pares e Ímpares: Construa um programa que, a partir de um array de números inteiros, conte quantos elementos são pares e quantos são ímpares.  
+
+---
+
+Nível Médio
+
+4. Inverter o Array: Escreva um programa que crie um novo array contendo os elementos do array original em ordem inversa.  
+5. Busca Linear (Encontrar um elemento): Faça um programa que verifique se um número específico existe dentro de um array. Caso exista, mostre a posição (índice) onde ele se encontra.  
+6. Média e Elementos Acima da Média: Crie um programa que calcule a média dos valores de um array e exiba apenas os números que são maiores do que essa média.  

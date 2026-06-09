@@ -1,0 +1,23 @@
+Professor: Luís Guilherme de S. Lopes
+Curso: Técnico em informática
+Senac - RS / Tramandaí
+
+--
+
+8 Exercícios com HASHSET (2)
+
+1. Remoção de Duplicados: Escreve um programa que peça ao utilizador o tamanho de um array e, em seguida, os números para o preencher. Usa um HashSet para filtrar e exibir apenas os números únicos.
+
+2. Sistema de Login: Cria um conjunto de nomes de utilizador já registados. Pede ao utilizador para digitar um novo nome e utiliza if-else para verificar se esse nome já existe no sistema.
+
+3. Encontro de Amigos (Interseção): Pede ao utilizador para inserir 5 nomes para a "Lista A" e 5 nomes para a "Lista B". O programa deve mostrar apenas os nomes que aparecem em ambas as listas.
+
+4. Alerta de Repetição: Cria um ciclo while que peça números ao utilizador continuamente. Assim que o utilizador digitar um número que já inseriu anteriormente, o programa deve avisar e terminar.
+
+5. Gestor de Convidados: Implementa um menu usando switch-case onde o utilizador possa: (1) Adicionar convidado, (2) Remover convidado e (3) Ver lista. O programa deve correr até que o utilizador escolha sair.
+
+6. Dicionário de Palavras: Usa um ciclo do-while para pedir palavras ao utilizador. Se a palavra for nova, guarda-a. O ciclo termina quando o utilizador digitar "FIM". No final, mostra quantas palavras únicas foram aprendidas.
+
+7. Filtro de Números Pares: Pede ao utilizador 10 números e guarda-os num Array. Depois, percorre o array e guarda num HashSet apenas os números que forem pares, evitando repetições.
+
+8. Exclusividade (Diferença): Carrega dois conjuntos de dados (ex: passatempos de dois amigos). Mostra ao utilizador apenas os passatempos que o primeiro amigo tem e que o segundo não tem.

@@ -1,0 +1,19 @@
+Lista 7 - Switch-Case
+
+-----
+
+1- Dias da Semana: Receber um número de 1 a 7 e imprimir o dia da semana correspondente.
+
+2 - Calculadora com Repetição: Criar uma calculadora que só para quando o utilizador escolher a opção "Sair", usando while e switch-case.
+
+3 - Classificação de Vogal: Verificar se uma letra (a, e, i, o, u) é uma vogal.
+
+4 -  Menu de Restaurante com Desconto: Menu de comida onde, se o valor total ultrapassar R$20, aplica-se um desconto usando if.
+
+5 -  Identificar o Mês: Receber um número de 1 a 12 e exibir o nome do mês correspondente.
+
+6 -  Sistema de Notas com Validação: O programa pede uma nota (letra A, B, C, D, F). Se a nota for 'F', ele usa um if para perguntar se o aluno fez a recuperação.
+
+7 -  Dia Útil ou Fim de Semana: Receber um dia (1 a 7) e dizer se é "Dia de trabalho" ou "Fim de semana".
+
+8 - Mini Caixa Eletrônico: Criar um menu que permite ver saldo, depositar ou sair. Usa um laço do-while para manter o programa rodando até o utilizador decidir sair.
