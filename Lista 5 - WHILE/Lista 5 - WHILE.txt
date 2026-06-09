@@ -1,0 +1,20 @@
+Professor: Luís Guilherme de S. Lopes
+Curso: Técnico em informática
+Senac - RS / Tramandaí
+
+--
+
+4 Exercícios com WHILE:
+
+Exercício 1: Cálculo da média de idade de uma turma
+Desenvolver um algoritmo que calcula a média de idade dos alunos de uma turma. O usuário deve informar a idade de cada aluno e digitar um valor negativo para indicar o fim da entrada de dados.
+
+Exercício 2: Validação de senha
+Criar um algoritmo que solicita uma senha ao usuário e verifica se ela é igual à senha correta "1234". O programa deve continuar solicitando a senha até que o usuário digite a senha correta.
+
+Exercício 3*: Tabuada de um número
+Criar um algoritmo que exibe a tabuada de um número inteiro positivo informado pelo usuário. O programa deve validar se o número digitado é positivo antes de exibir a tabuada.
+
+Exercício 4 (DESAFIO): Jogo de par ou ímpar
+Criar um jogo de par ou ímpar contra o computador. O usuário escolhe entre par ou ímpar e digita um número de 0 a 5. O computador gera um número aleatório de 0 a 5, e o programa verifica quem ganhou a rodada. O jogo continua até que o usuário digite "sair" para encerrar.
+

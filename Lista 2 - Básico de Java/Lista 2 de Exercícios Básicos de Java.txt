@@ -1,0 +1,39 @@
+Professor: Luís Guilherme S Lopes
+Senac Tramandaí - RS
+
+--------------------------------
+
+
+LISTA 2 DE EXERCÍCIOS BÁSICOS DE JAVA
+
+*** 1.Verificar se um ano é bissexto. Utiliza boolean para aplicar a regra de ano bissexto: Divisível por 4 e não por 100, ou Divisível por 400.
+
+
+----------------------------------------------------------------------------
+
+
+2. Verificar se um número é par. Utiliza boolean para determinar se um número inteiro é par. O cálculo para saber se o número é par ou impar é (num % 2 == 0). 
+
+
+----------------------------------------------------------------------------
+
+
+3. Verificar se uma pessoa pode dirigir. A pessoa deve ter 18 anos ou mais e possuir carteira de motorista (CNH).
+
+
+-----------------------------------------------------------------------------
+
+
+4. Verificar se um número está entre 10 e 20. Utiliza operadores relacionais e lógicos para checar o intervalo.
+
+
+-----------------------------------------------------------------------------
+
+
+*** 5. Verificar se um número é múltiplo de 3 ou de 7. Utiliza o operador módulo (%) junto com operadores lógicos para determinar a condição.
+
+
+------------------------------------------------------------------------------
+
+6. Verificar se um aluno foi aprovado na disciplina. Critérios: nota maior ou igual a 60 e frequência maior ou igual a 75%.
+

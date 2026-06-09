@@ -1,0 +1,26 @@
+1: O Foguete Lento
+Objetivo: Fazer o foguete começar a contagem no número 10, mas em vez de descer de 1 em 1, descer de 2 em 2 (Ex: 10, 8, 6...).
+
+2: Comendo Pizza
+Objetivo: Alterar os textos do programa anteior! Em vez de contagem, chamem a variável de fatiasPizza. Comecem com 8 fatias. Dentro do while, imprimam "Comi uma fatia! Restam: [fatiasPizza]". No final do while, imprimam "Comi demais!".
+
+3: O Elevador
+Objetivo: Fazer o inverso! O elevador está no andar 0 (térreo). Enquanto o andar for menor que 5, subam 1 andar (andar = andar + 1). Imprimam "Andar número: ...". Quando sair do while, imprimam "Chegou ao topo!".
+
+4. A Bateria do Celular
+Simule a bateria do celular descarregando rapidamente enquanto você joga um jogo pesado. Use um laço while para diminuir o valor da bateria em saltos maiores.
+Dica: troque o valor 20 por 10 e veja como a bateria dura mais tempo.
+
+5. A Barra de Carregamento (Loading...)
+Crie uma simulação de download. Use um laço while para somar valores até chegar ao limite máximo de 100%, mostrando a barra de carregamento.
+
+6. Encher o Balão
+Programe um balão que vai enchendo na tela até estourar. Use o while para aumentar o tamanho gradualmente e criar expectativa visual.
+
+7. Cofre de Moedas
+Simule um cofre que acumula moedas. Use o while para guardar dinheiro até alcançar o valor necessário para comprar algo desejado.
+
+8. O Cofre Secreto
+Crie um programa que pede uma senha ao usuário. Use o while para manter o programa “trancado” até que a senha correta seja digitada pelo teclado.
+
+

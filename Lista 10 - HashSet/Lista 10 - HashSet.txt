@@ -1,0 +1,23 @@
+Professor: Luís Guilherme de S. Lopes
+Curso: Técnico em informática
+Senac - RS / Tramandaí
+
+--
+
+9 Exercícios com HASHSET
+
+Nível Fácil
+
+1. Crie um HashSet de números inteiros e adicione os números de 1 a 10. Verifique se o número 5 está presente no conjunto.
+2. Crie um HashSet de strings e adicione nomes de frutas. Remova uma fruta específica e exiba o conjunto resultante.
+3. Crie um HashSet de números inteiros e adicione números de 1 a 5. Limpe o conjunto e verifique se está vazio
+4. Crie um HashSet de strings e adicione nomes de cidades. Verifique se o conjunto está vazio.
+5. Crie um HashSet de strings e adicione nomes de cores. Converta o HashSet em uma lista e exiba os elementos.
+6. Remova um elemento do HashSet: Crie um HashSet de strings com nomes de cidades. Remova a cidade "São Paulo" do HashSet e exiba o conjunto resultante.
+
+
+Nível Intermediário
+
+7. Crie um HashSet de números inteiros e adicione números aleatórios. Verifique o tamanho do conjunto.
+8. Crie um HashSet de números inteiros e adicione números de 1 a 10. Remova todos os números pares e exiba o conjunto resultante.
+9. Crie um HashSet de strings e adicione nomes de países. Verifique se o conjunto contém todos os elementos de uma lista específica.

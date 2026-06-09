@@ -1,0 +1,26 @@
+## Aula 4 - Exercícios - Laço de Repetição FOR ##
+
+Dificuldade: Fácil
+1. Exibir a tabuada completa de 1 a 10.
+2. Exibir os números de 1 a 10 em ordem descrescente.
+3. Calcular a soma dos números de 1 a 10.
+
+---
+
+Dificuldade: Médio
+
+4. Exibir os números ímpares de 9 a 1 em ordem decrescente.
+5. Calcular a média de 5 números informados pelo usuário.
+6. Solicitar ao usuário um caractere e um número, e exibir o caractere repetido o número de vezes especificado.
+7. Solicitar ao usuário um número inicial, um número final e um incremento, e exibir a contagem entre esses números com o incremento especificado.
+8. Solicitar ao usuário a idade de 5 pessoas e calcular a média das idades.
+9. Solicitar ao usuário 7 números e identificar o maior e o menor valor digitados.
+
+---
+
+Dificuldade: Difícil
+
+10. Jogo de Adivinhação: DESAFIO
+
+Gerar um número aleatório entre 1 e 100 e solicitar ao usuário que adivinhe o número, fornecendo dicas (maior ou menor) a cada tentativa. Limitar o número de tentativas a 7.
+
